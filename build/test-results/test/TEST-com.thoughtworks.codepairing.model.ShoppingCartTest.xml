@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.thoughtworks.codepairing.model.ShoppingCartTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-08T04:37:31" hostname="LAPTOP-BDF7QMHJ" time="0.006">
+  <properties/>
+  <testcase name="shouldCalculateLoyaltyPointsFor10PercentDiscount" classname="com.thoughtworks.codepairing.model.ShoppingCartTest" time="0.006"/>
+  <system-out><![CDATA[*****the discount is :10.0
+currentloyaltypointsearned id :10
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

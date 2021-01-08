@@ -1,0 +1,2 @@
+com/thoughtworks/codepairing/model/ShoppingCartTest.java
+ com.thoughtworks.codepairing.model.ShoppingCartTest

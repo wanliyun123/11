@@ -1,0 +1,10 @@
+com/thoughtworks/codepairing/model/ShoppingCart.java
+ com.thoughtworks.codepairing.model.ShoppingCart
+com/thoughtworks/codepairing/model/Order.java
+ com.thoughtworks.codepairing.model.Order
+com/thoughtworks/codepairing/model/Product.java
+ com.thoughtworks.codepairing.model.Product
+com/thoughtworks/codepairing/model/Customer.java
+ com.thoughtworks.codepairing.model.Customer
+com/thoughtworks/codepairing/SampleApp.java
+ com.thoughtworks.codepairing.SampleApp
